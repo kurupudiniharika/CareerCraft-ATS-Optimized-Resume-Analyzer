@@ -11,10 +11,15 @@ st.markdown(
     <style>
         body, .stApp {
             background-color: #FAF3E0;
+            color: #222222; /* Set your desired font color */
+        }
+        h1, h2, h3, h4, h5, h6, p, div {
+            color: #222222 !important; /* Force font color for headings and text */
         }
     </style>
     """,
     unsafe_allow_html=True
+)
 )
 # Load environment variables
 load_dotenv()
