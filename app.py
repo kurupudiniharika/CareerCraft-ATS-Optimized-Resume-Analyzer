@@ -97,7 +97,7 @@ with col2:
     st.write('✔️ Efficient Career Navigation')
 
 with col1:
-    img1 = Image.open(r"C:/Users\kurup\OneDrive\ドキュメント\Career Craft\images\career image 1.png")
+    img1 = Image.open("images\career image 1.png")
     st.image(img1, use_container_width=True)
 
 avs.add_vertical_space(10)
@@ -121,7 +121,7 @@ with col1:
             st.warning("⚠️ Please upload a resume and enter a job description.")
 
 with col2:
-    img2 = Image.open(r"C:/Users\kurup\OneDrive\ドキュメント\Career Craft\images\career image 2.png")
+    img2 = Image.open("images\career image 2.png")
     st.image(img2, use_container_width=True)
 
 avs.add_vertical_space(10)
@@ -145,6 +145,6 @@ with col2:
     st.write("A: Absolutely! It offers tailored insights and guidance for all career levels.")
 
 with col1:
-    img3 = Image.open(r"C:/Users\kurup\OneDrive\ドキュメント\Career Craft\images\career image 3 - Copy.png")
+    img3 = Image.open("images\career image 3 - Copy.png")
     st.image(img3, use_container_width=True)
 
