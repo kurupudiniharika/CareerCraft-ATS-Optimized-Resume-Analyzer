@@ -10,7 +10,7 @@ st.markdown(
     """
     <style>
         body, .stApp {
-            background-color: #FAF3E0;
+            background-color: #E7F8F1;
             color: #222222; /* Set your desired font color */
         }
         h1, h2, h3, h4, h5, h6, p, div {
