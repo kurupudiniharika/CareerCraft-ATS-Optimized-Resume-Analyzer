@@ -20,7 +20,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-)
 # Load environment variables
 load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
