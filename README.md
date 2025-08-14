@@ -80,5 +80,8 @@ Launching the Application:
 To host the application,  go to the terminal, type - streamlit run app.py
 Here app.py refers to a python script.
  Here is the web application https://careercraft-ats-optimized-resume-analyzer-y3m64zctqgagfe9wfakf.streamlit.app/
-!("C:\Users\kurup\OneDrive\Pictures\Screenshots\Screenshot (84).png")
- !("C:\Users\kurup\OneDrive\Pictures\Screenshots\Screenshot (85).png")
+!("images/images/Screenshot (83).png")
+!("images/images/Screenshot (84).png")
+!("images/images/Screenshot (85).png")
+!("images/images/Screenshot (86).png")
+!("images/images/Screenshot (87).png")
