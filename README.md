@@ -78,8 +78,7 @@ This layout effectively organizes the FAQ content alongside visual elements, enh
 ## Host the Application
 Launching the Application:
 To host the application,  go to the terminal, type - streamlit run app.py
-Here app.py refers to a python script.
- Here is the web application https://careercraft-ats-optimized-resume-analyzer-y3m64zctqgagfe9wfakf.streamlit.app/
+
 <img src="images/images/Screenshot (83).png"/>
 <img src="images/images/Screenshot (84).png"/>
 <img src="images/images/Screenshot (85).png"/>
